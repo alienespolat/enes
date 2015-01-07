@@ -8,7 +8,7 @@
 <?php
 echo"bu bir örnektir";
 echo"burası tamam";
-
+echo"yerelden yazıldı";
 
 ?>
 
