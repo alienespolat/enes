@@ -7,6 +7,7 @@
 <body>
 <?php
 echo"bu bir örnektir";
+echo"burası tamam";
 
 
 ?>
